@@ -3,38 +3,44 @@ SheTrack – Empowering Women's Health:
 SheTrack is an AI-powered mobile application designed to empower women by offering a holistic solution for managing their physical, emotional, and safety needs. Unlike other fragmented health apps, SheTrack integrates menstrual tracking, fitness, emotional wellness, and emergency support into a single, secure platform.
 
 Key Features
-Health & Wellness Tracking
-Menstrual Cycle Tracker: Log periods, pain levels, and symptoms
+->Health & Wellness Tracking
 
-Mood Logger: Track emotions to identify emotional patterns
+->Menstrual Cycle Tracker: Log periods, pain levels, and symptoms
 
-Sleep, Hydration & Steps Trackers: Monitor daily lifestyle activities
+->Mood Logger: Track emotions to identify emotional patterns
 
-Exercise Planner: Personalized workout plans (Easy/Medium/Hard)
+->Sleep, Hydration & Steps Trackers: Monitor daily lifestyle activities
 
-Nutrition Planner: 7-day diet focused on hormone balance and wellness
+->Exercise Planner: Personalized workout plans (Easy/Medium/Hard)
 
-AI-Powered Insights
-Predictive Health Monitoring: Detect cycle irregularities and emotional shifts
+->Nutrition Planner: 7-day diet focused on hormone balance and wellness
 
-Personalized Recommendations: Suggestions based on real-time data
+AI-Powered Insights:
 
-Emergency & Safety Tools
-Emergency Button: Sends live WhatsApp location to emergency contacts
+->Predictive Health Monitoring: Detect cycle irregularities and emotional shifts
 
-Emergency Contact Manager: Add, call, or remove trusted contacts
+->Personalized Recommendations: Suggestions based on real-time data
 
-Chatbot & Voice Assistant
-AI Chatbot: Health Q&A and personalized tips
+Emergency & Safety Tools:
 
-Voice Input: Ask health-related queries through speech (via Wit.ai)
+->Emergency Button: Sends live WhatsApp location to emergency contacts
 
-Educational Resource Library
-Curated articles and videos on menstrual health, fitness, mental wellness, and nutrition
+->Emergency Contact Manager: Add, call, or remove trusted contacts
 
-Works offline and provides personalized recommendations
+Chatbot & Voice Assistant:
 
-Offline & Privacy-First Design
-Offline-first capability for all major features
+->AI Chatbot: Health Q&A and personalized tips
+
+->Voice Input: Ask health-related queries through speech (via Wit.ai)
+
+Educational Resource Library:
+
+->Curated articles and videos on menstrual health, fitness, mental wellness, and nutrition
+
+->Works offline and provides personalized recommendations
+
+Offline & Privacy-First Design:
+
+->Offline-first capability for all major features
 
 All user data is encrypted, secure, and under the user's control.
