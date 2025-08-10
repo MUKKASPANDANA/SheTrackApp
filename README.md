@@ -1,4 +1,4 @@
-SheTrack – Empowering Women's Health:
+**SheTrack – Empowering Women's Health:**
 
 SheTrack is an AI-powered mobile application designed to empower women by offering a holistic solution for managing their physical, emotional, and safety needs. Unlike other fragmented health apps, SheTrack integrates menstrual tracking, fitness, emotional wellness, and emergency support into a single, secure platform.
 
